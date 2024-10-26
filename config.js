@@ -6,5 +6,5 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=rnxzBJgB#_SUYNVPSdGZxP_7CH-uJHT-xwiljfAT2lqm3fpoYJKY",
-MONGODB: process.env.MONGODB || "https://downloads.mongodb.com/compass/mongodb-compass-1.44.5-win32-x64.exe",//enter mongo db url හදන විදිය පල්ලෙහාබටන් එකක් ඇති
+MONGODB: process.env.MONGODB || "",//enter mongo db url හදන විදිය පල්ලෙහාබටන් එකක් ඇති
 };
